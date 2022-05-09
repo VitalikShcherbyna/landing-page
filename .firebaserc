@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "kanapkaman-dd0bc",
+    "staging": "kanapkaman-staging-4ddb9"
+  }
+}
